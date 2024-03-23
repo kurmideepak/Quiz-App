@@ -13,6 +13,8 @@ This is a simple quiz app developed for Android devices. It presents multiple-ch
 ## Screenshots
 
 ![Quiz App](https://github.com/kurmideepak/Quiz-App/assets/140266333/1cc9b241-d3a5-443a-9c80-111a3ee1e453)
+![Quiz App1](https://github.com/kurmideepak/Quiz-App/assets/140266333/fcc11d6e-a46a-48f8-97e5-f63c7f8396ec)
+
 
 
 
