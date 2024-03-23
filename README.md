@@ -12,7 +12,8 @@ This is a simple quiz app developed for Android devices. It presents multiple-ch
 
 ## Screenshots
 
-![WhatsApp Image 2024-03-22 at 21 20 32_78db27eb](https://github.com/kurmideepak/Quiz-App/assets/140266333/76ef5fcf-683b-485a-ac9f-7deecaa39664)
+![Quiz App](https://github.com/kurmideepak/Quiz-App/assets/140266333/1cc9b241-d3a5-443a-9c80-111a3ee1e453)
+
 
 
 ## How to Use
