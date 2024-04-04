@@ -2,7 +2,7 @@ package com.example.quizapp;
 
 public class QuestionAnswer {
     public static String question[] = {
-           "What is 18+26 ?",
+           "What is 10+26 ?",
            "Who invented Telephone?",
            "What is 12*9?",
            "Who is the Father of SpaceX",
