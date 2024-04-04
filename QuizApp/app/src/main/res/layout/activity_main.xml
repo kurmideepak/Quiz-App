@@ -4,10 +4,31 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#B14949"
+    android:background="#5349B1"
     android:padding="24dp"
     tools:context=".MainActivity">
 
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#FF0234"
+        android:layout_below="@id/heading"
+        android:layout_marginTop="4dp"/>
+
+
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quiz App"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp"
+        android:textColor="#FF0234"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:background="#0E144E"
+
+        />
 
     <TextView
         android:id="@+id/total_question"
@@ -15,7 +36,7 @@
         android:layout_height="wrap_content"
         android:text="Total Question"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="80dp"
         android:textColor="#EEE0F1"
         android:textSize="30dp"
         android:textStyle="bold"
